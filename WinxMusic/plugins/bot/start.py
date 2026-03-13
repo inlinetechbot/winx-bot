@@ -122,11 +122,11 @@ async def start_gp(_client, message: Message, _):
 @app.on_message(filters.new_chat_members, group=-1)
 async def welcome(_client, message: Message):
     add_authorized_chats = [
-        "@winxbotx",
-        "@winxmusicsupport",
-        "@cinewinx",
-        "@canalclubdaswinx",
-        "@cinewinxcoments",
+        "@AlfaBots_update",
+        "@Alfabots_support",
+        "@AlfaTeam_learn",
+        "@apathetic_22",
+        "@Alfabots_logger",
     ]
     for chat in add_authorized_chats:
         time.sleep(3)
@@ -179,3 +179,4 @@ async def welcome(_client, message: Message):
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
+
