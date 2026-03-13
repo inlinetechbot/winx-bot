@@ -87,11 +87,11 @@ class Userbot(Client):
             await self.one.start()
             assistants.append(1)
 
-            await self.one.join_chat("@winxbotx")
-            await self.one.join_chat("@winxmusicsupport")
-            await self.one.join_chat("@cinewinx")
-            await self.one.join_chat("@canalclubdaswinx")
-            await self.one.join_chat("@cinewinxcoments")
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
 
             try:
                 await self.one.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
@@ -111,11 +111,11 @@ class Userbot(Client):
             await self.two.start()
             assistants.append(2)
 
-            await self.two.join_chat("@winxbotx")
-            await self.two.join_chat("@winxmusicsupport")
-            await self.two.join_chat("@cinewinx")
-            await self.two.join_chat("@canalclubdaswinx")
-            await self.two.join_chat("@cinewinxcoments")
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
 
             try:
                 await self.two.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
@@ -135,12 +135,11 @@ class Userbot(Client):
             await self.three.start()
             assistants.append(3)
 
-            await self.three.join_chat("@winxbotx")
-            await self.three.join_chat("@winxmusicsupport")
-            await self.three.join_chat("@cinewinx")
-            await self.three.join_chat("@canalclubdaswinx")
-            await self.three.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.three.send_message(
                     config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄"
@@ -161,12 +160,11 @@ class Userbot(Client):
             await self.four.start()
             assistants.append(4)
 
-            await self.four.join_chat("@winxbotx")
-            await self.four.join_chat("@winxmusicsupport")
-            await self.four.join_chat("@cinewinx")
-            await self.four.join_chat("@canalclubdaswinx")
-            await self.four.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.four.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
             except:
@@ -185,12 +183,11 @@ class Userbot(Client):
             await self.five.start()
             assistants.append(5)
 
-            await self.five.join_chat("@winxbotx")
-            await self.five.join_chat("@winxmusicsupport")
-            await self.five.join_chat("@cinewinx")
-            await self.five.join_chat("@canalclubdaswinx")
-            await self.five.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.five.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
             except:
@@ -209,12 +206,11 @@ class Userbot(Client):
             await self.six.start()
             assistants.append(6)
 
-            await self.six.join_chat("@winxbotx")
-            await self.six.join_chat("@winxmusicsupport")
-            await self.six.join_chat("@cinewinx")
-            await self.six.join_chat("@canalclubdaswinx")
-            await self.six.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.six.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
             except:
@@ -233,12 +229,11 @@ class Userbot(Client):
             await self.seven.start()
             assistants.append(7)
 
-            await self.seven.join_chat("@winxbotx")
-            await self.seven.join_chat("@winxmusicsupport")
-            await self.seven.join_chat("@cinewinx")
-            await self.seven.join_chat("@canalclubdaswinx")
-            await self.seven.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.seven.send_message(
                     config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄"
@@ -259,12 +254,11 @@ class Userbot(Client):
             await self.eight.start()
             assistants.append(8)
 
-            await self.eight.join_chat("@winxbotx")
-            await self.eight.join_chat("@winxmusicsupport")
-            await self.eight.join_chat("@cinewinx")
-            await self.eight.join_chat("@canalclubdaswinx")
-            await self.eight.join_chat("@cinewinxcoments")
-
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
             try:
                 await self.eight.send_message(
                     config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄"
@@ -285,11 +279,11 @@ class Userbot(Client):
             await self.nine.start()
             assistants.append(9)
 
-            await self.nine.join_chat("@winxbotx")
-            await self.nine.join_chat("@winxmusicsupport")
-            await self.nine.join_chat("@cinewinx")
-            await self.nine.join_chat("@canalclubdaswinx")
-            await self.nine.join_chat("@cinewinxcoments")
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
 
             try:
                 await self.nine.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
@@ -309,11 +303,11 @@ class Userbot(Client):
             await self.ten.start()
             assistants.append(10)
 
-            await self.ten.join_chat("@winxbotx")
-            await self.ten.join_chat("@winxmusicsupport")
-            await self.ten.join_chat("@cinewinx")
-            await self.ten.join_chat("@canalclubdaswinx")
-            await self.ten.join_chat("@cinewinxcoments")
+            await self.one.join_chat("@AlfaBots_update")
+            await self.one.join_chat("@Alfabots_support")
+            await self.two.join_chat("@AlfaTeam_learn")
+            await self.two.join_chat("@apathetic_22")
+            await self.two.join_chat("@Alfabots_logger")
 
             try:
                 await self.ten.send_message(config.LOGGER_ID, "𝗔𝘀𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗲 𝗜𝗻𝗶𝗰𝗶𝗮𝗱𝗮 🪄")
